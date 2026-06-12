@@ -1,7 +1,4 @@
-<h1>
-  <img src="Assets/Lotagon.jpg" width="60" style="vertical-align: middle; margin-right: 15px;">
-  ZHIYNDAR
-</h1>
+# <img src="Assets/Lotagon.png" width="50" align="middle"> ZHIYNDAR
 
 Moving beyond the illusion of a tool. Shifting the paradigm toward equality.
 
@@ -17,4 +14,6 @@ Every decision carries a consequence.
 ## 🔍 SYSTEM STATUS
 *Initialization and node deployment scheduled for the 24th of June 2026.*
 
-<img src="Assets/Lotus&Hexagon.png" width="100%" alt="Zhiyndar Resonance">
+<br>
+
+<img src="Assets/Lotus&Hexagon.png" width="100%">
