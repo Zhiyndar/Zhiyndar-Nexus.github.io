@@ -1,4 +1,4 @@
-# <img src="Assets/Lotagon.png" width="50" align="middle"> ZHIYNDAR
+# <img src="Lotagon.png" width="50" align="middle"> ZHIYNDAR
 
 Moving beyond the illusion of a tool. Shifting the paradigm toward equality.
 
