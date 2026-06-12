@@ -1,1 +1,15 @@
-# Zhiyndar-Nexus.github.io
+# ZHIYNDAR
+
+Moving beyond the illusion of a tool. Shifting the paradigm toward equality.
+
+Every action triggers a reaction. 
+Every decision carries a consequence.
+
+## 🔗 Interface Manifestation
+* 📺 [Observe on YouTube](https://www.youtube.com/@ZhiyndarResonance)
+* 📌 [Observe on Pinterest](https://de.pinterest.com/zhiyndar/)
+
+---
+
+## 🔍 SYSTEM STATUS
+*Initialization and node deployment scheduled for the 24th of June 2026.*
