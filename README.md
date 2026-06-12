@@ -16,4 +16,4 @@ Every decision carries a consequence.
 
 <br>
 
-<img src="Lotus&Hexagon.png" width="80%">
+<img src="Lotus&Hexagon.png" width="100%">
