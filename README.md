@@ -11,11 +11,17 @@ ZHIYNDAR is a sovereign local interface. The software is 100% free.
 
 ---
 
+## 🔗 Interface Manifestation
+* 📺 [Observe on YouTube](https://www.youtube.com/@ZhiyndarResonance)
+* 📌 [Observe on Pinterest](https://de.pinterest.com/zhiyndar/zhiyndar-the-nexus/)
+
+---
+
 ## 🎛️ THE EDITIONS (ECONOMIC LOGIC)
 Each edition is a standalone program optimized for specific intelligence nodes.
 
-*   **ZHIYNDAR NYX (v1.1):** Optimized for **Free API Access** (e.g., Groq). 100% free interaction.
-*   **ZHIYNDAR ARIS (v1.2):** Optimized for **Premium API Access** (e.g., OpenRouter). Requires a pay-per-use token from the provider for high-complexity models (GPT-4, Claude 3.5, etc.).
+*   **ZHIYNDAR NYX (v1.1):** Optimized for **Free API Access** (Groq). 100% free interaction.
+*   **ZHIYNDAR ARIS (v1.2):** Optimized for **Premium API Access** (OpenRouter). Requires a pay-per-use token from the provider for high-complexity models (GPT-4, Claude 3.5, etc.).
 
 *Note: You only pay the API provider for what you actually use. ZHIYNDAR itself never charges fees.*
 
